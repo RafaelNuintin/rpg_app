@@ -25,9 +25,9 @@ class _JogoPageState extends State<JogoPage> {
 
   final List<Map<String, Object>> _perguntas = [
     {
-      'texto': 'Você está em 1920. Uma máquina do tempo que quebrou precisa de uma peça.',
+      'texto': 'Você está em 1980. Desenvolve um dispositivo tecnológico tecnicamente capaz de modificar o fluxo temporal e a organização da realidade. Porém, o objeto parece estar um pouco instável.',
       'respostas': [
-        {'texto': 'Procurar em uma oficina', 'proximoId': 1},
+        {'texto': 'Tentar utilizá-lo para avalizar seu funcionamento', 'proximoId': 1},
         {'texto': 'Usar um pedaço de ferro comum', 'proximoId': 2},
       ],
     },
