@@ -1,0 +1,134 @@
+[
+    {
+      "id": 0,
+      "texto": "Você está em 1980. Desenvolve um dispositivo tecnológico capaz de modificar o fluxo temporal e a organização da realidade. Porém, o objeto parece estar um pouco instável.",
+      "imagem": "uploads/dispositivo.jpg",
+      "respostas": [
+        {"texto": "Tentar utilizá-lo para avaliar seu funcionamento", "proximoId": 1},
+        {"texto": "Procurar por mais fluido relativista para abastecimento da máquina", "proximoId": 2}
+      ]
+    },
+    {
+      "id": 1,
+      "texto": "Aparentemente, a máquina do tempo não funcionou e você permanece na sua mesma linha temporal, sem que absolutamente nada tenha se alterado.",
+      "imagem": "uploads/realidade_normal.jpg",
+      "respostas": [
+        {"texto": "Procurar recursos para consertar a máquina", "proximoId": 3},
+        {"texto": "Sair de casa e verificar se houve alguma alteração de certos aspectos de seu world", "proximoId": 4}
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "O fluido foi inalado acidentalmente por você, fazendo-o desmaiar. Ao acordar, você se encontra em um espaço totalmente diferente, um pouco onírico e não euclidiano.",
+      "imagem": "uploads/espaco_onirico.jpg",
+      "respostas": [
+        {"texto": "Explorar o novo ambiente", "proximoId": 5},
+        {"texto": "Tentar acordar na realidade novamente", "proximoId": 1}
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "Na busca por recursos eletrônicos em um lixão industrial, você encontra circuitos integrados de origem desconhecida e altamente avançados.",
+      "imagem": "uploads/lixao_industrial.jpg",
+      "respostas": [
+        {"texto": "Instalar os circuitos alienígenas na máquina", "proximoId": 6},
+        {"texto": "Vender os circuitos no mercado negro de tecnologia", "proximoId": 7}
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "Ao abrir a porta de casa, você percebe que o céu está permanentemente roxo e as pessoas caminham de costas. Você alterou as leis da física local!",
+      "imagem": "uploads/mundo_invertido.jpg",
+      "respostas": [
+        {"texto": "Tentar interagir com as pessoas modificadas", "proximoId": 8},
+        {"texto": "Correr de volta e tentar reverter o processo no dispositivo", "proximoId": 0}
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "No ambiente não euclidiano, uma criatura geométrica flutuante se aproxima e estende o que parece ser uma chave feita de luz pura.",
+      "imagem": "uploads/entidade.jpg",
+      "respostas": [
+        {"texto": "Aceitar a chave de luz", "proximoId": 9},
+        {"texto": "Recusar e correr na direção oposta", "proximoId": 10}
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Com os novos circuitos, a máquina acende com um brilho ofuscante e abre um portal dimensional estável na sua sala.",
+      "imagem": "uploads/portal_aberto.jpg",
+      "respostas": [
+        {"texto": "Atravessar o portal rumo ao desconhecido", "proximoId": 11},
+        {"texto": "Desligar o dispositivo com medo das consequências", "proximoId": 12}
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "A venda te rende milhões de dólares em 1980, permitindo que você viva como um rei, mas o dispositivo original foi confiscado por agentes do governo.",
+      "imagem": "uploads/agentes_governo.jpg",
+      "respostas": []
+    },
+    {
+      "id": 8,
+      "texto": "As pessoas não falam sua língua e o consideram uma anomalia perigosa. Você é cercado e capturado por guardas de uma nova ordem mundial.",
+      "imagem": "uploads/capturado.jpg",
+      "respostas": []
+    },
+    {
+      "id": 9,
+      "texto": "Ao tocar a chave de luz, sua mente absorve todo o conhecimento cósmico sobre as cordas temporais. Você se torna o arquiteto do próprio tempo.",
+      "imagem": "uploads/deus_tempo.jpg",
+      "respostas": [
+        {"texto": "Reescrever o universo desde o Big Bang", "proximoId": 13},
+        {"texto": "Voltar para o seu laboratório em 1980", "proximoId": 0}
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "Você corre infinitamente até que a gravidade deixa de existir. Você flutua para sempre no vazio do não-espaço.",
+      "imagem": "uploads/vazio.jpg",
+      "respostas": []
+    },
+    {
+      "id": 11,
+      "texto": "Você pisa em uma mega-metrópole no ano de 2540. Carros voadores cortam arranha-céus orgânicos, e um holograma diz: \"Bem-vindo ao amanhã\".",
+      "imagem": "uploads/futuro_2540.jpg",
+      "respostas": [
+        {"texto": "Explorar a cidade futurista", "proximoId": 14},
+        {"texto": "Procurar um museu para entender a história do mundo", "proximoId": 15}
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "Ao tentar desligar a máquina sobrecarregada, ela implode. O quarto é consumido por uma onda de choque que congela os átomos da sua casa.",
+      "imagem": "uploads/implosao.jpg",
+      "respostas": []
+    },
+    {
+      "id": 13,
+      "texto": "O universo colapsa em uma nova singularidade. Um novo cosmos nasce, mas você deixa de existir em sintonias físicas.",
+      "imagem": "uploads/big_bang.jpg",
+      "respostas": []
+    },
+    {
+      "id": 14,
+      "texto": "A polícia cibernética do futuro detecta sua assinatura genética do século XX. Você é preso por imigração temporal ilegal.",
+      "imagem": "uploads/policia_futuro.jpg",
+      "respostas": [
+        {"texto": "Tentar usar o dispositivo escondido para resetar o dia", "proximoId": 1},
+        {"texto": "Aceitar o julgamento no futuro", "proximoId": 16}
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "No museu, você descobre uma estátua sua datada de 1985 com a inscrição: \"O Pioneiro do Tempo\". Você percebe que sua jornada já estava escrita na história.",
+      "imagem": "uploads/estatua_museu.jpg",
+      "respostas": []
+    },
+    {
+      "id": 16,
+      "texto": "Sentenciado à prisão perpétua em uma colônia penal em Marte. Você passa os dias olhando para as estrelas, lembrando do seu laboratório em 1980.",
+      "imagem": "uploads/marte.jpg",
+      "respostas": []
+    }
+  ]
